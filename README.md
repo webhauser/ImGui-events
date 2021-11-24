@@ -14,3 +14,5 @@ $ cd examples/example_glfw_opengl2
 $ make
 
 $ ./example_glfw_opengl2
+
+![image](https://user-images.githubusercontent.com/637115/143320542-577df46a-b434-4a64-9504-e9cdd4143cc7.png)
